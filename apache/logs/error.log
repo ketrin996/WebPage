@@ -1,0 +1,53 @@
+[Fri Mar 02 19:23:38.623389 2018] [ssl:warn] [pid 7428:tid 300] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Mar 02 19:23:38.780398 2018] [ssl:warn] [pid 7428:tid 300] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Mar 02 19:23:42.961637 2018] [mpm_winnt:notice] [pid 7428:tid 300] AH00455: Apache/2.4.29 (Win32) OpenSSL/1.1.0g PHP/7.2.2 configured -- resuming normal operations
+[Fri Mar 02 19:23:42.961637 2018] [mpm_winnt:notice] [pid 7428:tid 300] AH00456: Apache Lounge VC15 Server built: Nov  3 2017 10:30:36
+[Fri Mar 02 19:23:42.961637 2018] [core:notice] [pid 7428:tid 300] AH00094: Command line: 'd:\\xaamp\\apache\\bin\\httpd.exe -d D:/xaamp/apache'
+[Fri Mar 02 19:23:43.004640 2018] [mpm_winnt:notice] [pid 7428:tid 300] AH00418: Parent: Created child process 7520
+[Fri Mar 02 19:23:44.372718 2018] [ssl:warn] [pid 7520:tid 312] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Mar 02 19:23:44.424721 2018] [ssl:warn] [pid 7520:tid 312] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Mar 02 19:23:44.559729 2018] [mpm_winnt:notice] [pid 7520:tid 312] AH00354: Child: Starting 150 worker threads.
+[Fri Mar 02 20:18:13.961728 2018] [php7:warn] [pid 7520:tid 1576] [client ::1:61648] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in D:\\xaamp\\htdocs\\wordpress\\wp-includes\\class-wp-customize-nav-menus.php on line 316, referer: http://localhost/wordpress/wp-admin/customize.php?theme=education-park&return=http%3A%2F%2Flocalhost%2Fwordpress%2Fwp-admin%2F
+[Fri Mar 02 20:18:15.004787 2018] [php7:warn] [pid 7520:tid 1576] [client ::1:61648] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in D:\\xaamp\\htdocs\\wordpress\\wp-includes\\class-wp-customize-nav-menus.php on line 316, referer: http://localhost/wordpress/wp-admin/customize.php?theme=education-park&return=http%3A%2F%2Flocalhost%2Fwordpress%2Fwp-admin%2F
+[Fri Mar 02 20:18:17.399924 2018] [php7:warn] [pid 7520:tid 1576] [client ::1:61648] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in D:\\xaamp\\htdocs\\wordpress\\wp-includes\\class-wp-customize-nav-menus.php on line 316, referer: http://localhost/wordpress/wp-admin/customize.php?theme=education-park&return=http%3A%2F%2Flocalhost%2Fwordpress%2Fwp-admin%2F
+[Sun Mar 04 15:15:08.739553 2018] [ssl:warn] [pid 9604:tid 300] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Sun Mar 04 15:15:08.940564 2018] [core:warn] [pid 9604:tid 300] AH00098: pid file D:/xaamp/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Sun Mar 04 15:15:08.944565 2018] [ssl:warn] [pid 9604:tid 300] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Sun Mar 04 15:15:13.132804 2018] [mpm_winnt:notice] [pid 9604:tid 300] AH00455: Apache/2.4.29 (Win32) OpenSSL/1.1.0g PHP/7.2.2 configured -- resuming normal operations
+[Sun Mar 04 15:15:13.132804 2018] [mpm_winnt:notice] [pid 9604:tid 300] AH00456: Apache Lounge VC15 Server built: Nov  3 2017 10:30:36
+[Sun Mar 04 15:15:13.132804 2018] [core:notice] [pid 9604:tid 300] AH00094: Command line: 'd:\\xaamp\\apache\\bin\\httpd.exe -d D:/xaamp/apache'
+[Sun Mar 04 15:15:13.150805 2018] [mpm_winnt:notice] [pid 9604:tid 300] AH00418: Parent: Created child process 9248
+[Sun Mar 04 15:15:14.719895 2018] [ssl:warn] [pid 9248:tid 312] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Sun Mar 04 15:15:14.832901 2018] [ssl:warn] [pid 9248:tid 312] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Sun Mar 04 15:15:14.950908 2018] [mpm_winnt:notice] [pid 9248:tid 312] AH00354: Child: Starting 150 worker threads.
+[Tue Mar 06 13:02:32.958680 2018] [ssl:warn] [pid 8172:tid 300] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Tue Mar 06 13:02:33.366704 2018] [core:warn] [pid 8172:tid 300] AH00098: pid file D:/xaamp/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Tue Mar 06 13:02:33.374704 2018] [ssl:warn] [pid 8172:tid 300] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Tue Mar 06 13:02:38.459995 2018] [mpm_winnt:notice] [pid 8172:tid 300] AH00455: Apache/2.4.29 (Win32) OpenSSL/1.1.0g PHP/7.2.2 configured -- resuming normal operations
+[Tue Mar 06 13:02:38.459995 2018] [mpm_winnt:notice] [pid 8172:tid 300] AH00456: Apache Lounge VC15 Server built: Nov  3 2017 10:30:36
+[Tue Mar 06 13:02:38.459995 2018] [core:notice] [pid 8172:tid 300] AH00094: Command line: 'd:\\xaamp\\apache\\bin\\httpd.exe -d D:/xaamp/apache'
+[Tue Mar 06 13:02:38.470996 2018] [mpm_winnt:notice] [pid 8172:tid 300] AH00418: Parent: Created child process 6816
+[Tue Mar 06 13:02:39.313044 2018] [ssl:warn] [pid 6816:tid 312] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Tue Mar 06 13:02:39.363047 2018] [ssl:warn] [pid 6816:tid 312] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Tue Mar 06 13:02:39.403049 2018] [mpm_winnt:notice] [pid 6816:tid 312] AH00354: Child: Starting 150 worker threads.
+[Tue Mar 06 14:35:39.252191 2018] [ssl:warn] [pid 8432:tid 300] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Tue Mar 06 14:35:39.310195 2018] [core:warn] [pid 8432:tid 300] AH00098: pid file D:/xaamp/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Tue Mar 06 14:35:39.312195 2018] [ssl:warn] [pid 8432:tid 300] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Tue Mar 06 14:35:39.353197 2018] [mpm_winnt:notice] [pid 8432:tid 300] AH00455: Apache/2.4.29 (Win32) OpenSSL/1.1.0g PHP/7.2.2 configured -- resuming normal operations
+[Tue Mar 06 14:35:39.353197 2018] [mpm_winnt:notice] [pid 8432:tid 300] AH00456: Apache Lounge VC15 Server built: Nov  3 2017 10:30:36
+[Tue Mar 06 14:35:39.353197 2018] [core:notice] [pid 8432:tid 300] AH00094: Command line: 'd:\\xaamp\\apache\\bin\\httpd.exe -d D:/xaamp/apache'
+[Tue Mar 06 14:35:39.411200 2018] [mpm_winnt:notice] [pid 8432:tid 300] AH00418: Parent: Created child process 4400
+[Tue Mar 06 14:35:40.127241 2018] [ssl:warn] [pid 4400:tid 312] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Tue Mar 06 14:35:40.169244 2018] [ssl:warn] [pid 4400:tid 312] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Tue Mar 06 14:35:40.209246 2018] [mpm_winnt:notice] [pid 4400:tid 312] AH00354: Child: Starting 150 worker threads.
+[Wed Mar 07 11:15:52.046675 2018] [ssl:warn] [pid 6340:tid 300] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Wed Mar 07 11:15:52.446698 2018] [core:warn] [pid 6340:tid 300] AH00098: pid file D:/xaamp/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Wed Mar 07 11:15:52.454698 2018] [ssl:warn] [pid 6340:tid 300] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Wed Mar 07 11:15:58.299032 2018] [mpm_winnt:notice] [pid 6340:tid 300] AH00455: Apache/2.4.29 (Win32) OpenSSL/1.1.0g PHP/7.2.2 configured -- resuming normal operations
+[Wed Mar 07 11:15:58.299032 2018] [mpm_winnt:notice] [pid 6340:tid 300] AH00456: Apache Lounge VC15 Server built: Nov  3 2017 10:30:36
+[Wed Mar 07 11:15:58.299032 2018] [core:notice] [pid 6340:tid 300] AH00094: Command line: 'd:\\xaamp\\apache\\bin\\httpd.exe -d D:/xaamp/apache'
+[Wed Mar 07 11:15:58.398038 2018] [mpm_winnt:notice] [pid 6340:tid 300] AH00418: Parent: Created child process 8804
+[Wed Mar 07 11:15:59.415096 2018] [ssl:warn] [pid 8804:tid 312] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Wed Mar 07 11:15:59.478100 2018] [ssl:warn] [pid 8804:tid 312] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Wed Mar 07 11:15:59.524102 2018] [mpm_winnt:notice] [pid 8804:tid 312] AH00354: Child: Starting 150 worker threads.
+[Wed Mar 07 14:27:23.698317 2018] [mpm_winnt:notice] [pid 6340:tid 300] AH00428: Parent: child process 8804 exited with status 1073807364 -- Restarting.

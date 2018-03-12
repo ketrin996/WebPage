@@ -1,0 +1,135 @@
+19:23:22  [main] 	Initializing Control Panel
+19:23:23  [main] 	Windows Version: Windows 7 Home Basic SP1 64-bit
+19:23:23  [main] 	XAMPP Version: 7.2.2
+19:23:23  [main] 	Control Panel Version: 3.2.2  [ Compiled: Nov 12th 2015 ]
+19:23:23  [main] 	Running with Administrator rights - good!
+19:23:23  [main] 	XAMPP Installation Directory: "d:\xaamp\"
+19:23:23  [main] 	Checking for prerequisites
+19:23:24  [main] 	All prerequisites found
+19:23:24  [main] 	Initializing Modules
+19:23:24  [Apache] 	Problem detected!
+19:23:24  [Apache] 	Port 80 in use by "C:\Program Files (x86)\Skype\Phone\Skype.exe" with PID 4780!
+19:23:24  [Apache] 	Apache WILL NOT start without the configured ports free!
+19:23:24  [Apache] 	You need to uninstall/disable/reconfigure the blocking application
+19:23:24  [Apache] 	or reconfigure Apache and the Control Panel to listen on a different port
+19:23:24  [Apache] 	Problem detected!
+19:23:24  [Apache] 	Port 443 in use by "C:\Program Files (x86)\Skype\Phone\Skype.exe" with PID 4780!
+19:23:24  [Apache] 	Apache WILL NOT start without the configured ports free!
+19:23:24  [Apache] 	You need to uninstall/disable/reconfigure the blocking application
+19:23:24  [Apache] 	or reconfigure Apache and the Control Panel to listen on a different port
+19:23:25  [Tomcat] 	Problem detected!
+19:23:25  [Tomcat] 	Port 8080 in use by "D:\Oracle\app\oracle\product\11.2.0\server\BIN\tnslsnr.exe"!
+19:23:25  [Tomcat] 	Tomcat WILL NOT start without the configured ports free!
+19:23:25  [Tomcat] 	You need to uninstall/disable/reconfigure the blocking application
+19:23:25  [Tomcat] 	or reconfigure Tomcat and the Control Panel to listen on a different port
+19:23:25  [main] 	Starting Check-Timer
+19:23:25  [main] 	Control Panel Ready
+19:23:28  [Apache] 	Problem detected!
+19:23:28  [Apache] 	Port 80 in use by "C:\Program Files (x86)\Skype\Phone\Skype.exe" with PID 4780!
+19:23:28  [Apache] 	Apache WILL NOT start without the configured ports free!
+19:23:28  [Apache] 	You need to uninstall/disable/reconfigure the blocking application
+19:23:28  [Apache] 	or reconfigure Apache and the Control Panel to listen on a different port
+19:23:28  [Apache] 	Problem detected!
+19:23:28  [Apache] 	Port 443 in use by "C:\Program Files (x86)\Skype\Phone\Skype.exe" with PID 4780!
+19:23:28  [Apache] 	Apache WILL NOT start without the configured ports free!
+19:23:28  [Apache] 	You need to uninstall/disable/reconfigure the blocking application
+19:23:28  [Apache] 	or reconfigure Apache and the Control Panel to listen on a different port
+19:23:28  [Apache] 	Attempting to start Apache app...
+19:23:28  [mysql] 	Attempting to start MySQL app...
+19:23:29  [Apache] 	Status change detected: running
+19:23:29  [mysql] 	Status change detected: running
+23:16:21  [main] 	Deinitializing Modules
+23:16:21  [main] 	Deinitializing Control Panel
+
+15:14:46  [main] 	Initializing Control Panel
+15:14:47  [main] 	Windows Version: Windows 7 Home Basic SP1 64-bit
+15:14:47  [main] 	XAMPP Version: 7.2.2
+15:14:47  [main] 	Control Panel Version: 3.2.2  [ Compiled: Nov 12th 2015 ]
+15:14:47  [main] 	Running with Administrator rights - good!
+15:14:47  [main] 	XAMPP Installation Directory: "d:\xaamp\"
+15:14:47  [main] 	Checking for prerequisites
+15:14:49  [main] 	All prerequisites found
+15:14:49  [main] 	Initializing Modules
+15:14:49  [Apache] 	Problem detected!
+15:14:49  [Apache] 	Port 80 in use by "C:\Program Files (x86)\Skype\Phone\Skype.exe" with PID 2192!
+15:14:49  [Apache] 	Apache WILL NOT start without the configured ports free!
+15:14:49  [Apache] 	You need to uninstall/disable/reconfigure the blocking application
+15:14:49  [Apache] 	or reconfigure Apache and the Control Panel to listen on a different port
+15:14:49  [Apache] 	Problem detected!
+15:14:49  [Apache] 	Port 443 in use by "C:\Program Files (x86)\Skype\Phone\Skype.exe" with PID 2192!
+15:14:49  [Apache] 	Apache WILL NOT start without the configured ports free!
+15:14:49  [Apache] 	You need to uninstall/disable/reconfigure the blocking application
+15:14:49  [Apache] 	or reconfigure Apache and the Control Panel to listen on a different port
+15:14:49  [main] 	Starting Check-Timer
+15:14:49  [main] 	Control Panel Ready
+15:14:53  [Apache] 	Problem detected!
+15:14:53  [Apache] 	Port 80 in use by "C:\Program Files (x86)\Skype\Phone\Skype.exe" with PID 2192!
+15:14:53  [Apache] 	Apache WILL NOT start without the configured ports free!
+15:14:53  [Apache] 	You need to uninstall/disable/reconfigure the blocking application
+15:14:53  [Apache] 	or reconfigure Apache and the Control Panel to listen on a different port
+15:14:53  [Apache] 	Problem detected!
+15:14:53  [Apache] 	Port 443 in use by "C:\Program Files (x86)\Skype\Phone\Skype.exe" with PID 2192!
+15:14:53  [Apache] 	Apache WILL NOT start without the configured ports free!
+15:14:53  [Apache] 	You need to uninstall/disable/reconfigure the blocking application
+15:14:53  [Apache] 	or reconfigure Apache and the Control Panel to listen on a different port
+15:14:53  [Apache] 	Attempting to start Apache app...
+15:14:53  [Apache] 	Status change detected: running
+15:14:53  [mysql] 	Attempting to start MySQL app...
+15:14:56  [mysql] 	Status change detected: running
+18:11:09  [main] 	Deinitializing Modules
+18:11:09  [main] 	Deinitializing Control Panel
+
+11:15:12  [main] 	Initializing Control Panel
+11:15:12  [main] 	Windows Version: Windows 7 Home Basic SP1 64-bit
+11:15:12  [main] 	XAMPP Version: 7.2.2
+11:15:12  [main] 	Control Panel Version: 3.2.2  [ Compiled: Nov 12th 2015 ]
+11:15:12  [main] 	Running with Administrator rights - good!
+11:15:12  [main] 	XAMPP Installation Directory: "d:\xaamp\"
+11:15:12  [main] 	Checking for prerequisites
+11:15:14  [main] 	All prerequisites found
+11:15:14  [main] 	Initializing Modules
+11:15:14  [Apache] 	Problem detected!
+11:15:14  [Apache] 	Port 80 in use by "C:\Program Files (x86)\Skype\Phone\Skype.exe" with PID 3488!
+11:15:14  [Apache] 	Apache WILL NOT start without the configured ports free!
+11:15:14  [Apache] 	You need to uninstall/disable/reconfigure the blocking application
+11:15:14  [Apache] 	or reconfigure Apache and the Control Panel to listen on a different port
+11:15:14  [Apache] 	Problem detected!
+11:15:14  [Apache] 	Port 443 in use by "C:\Program Files (x86)\Skype\Phone\Skype.exe" with PID 3488!
+11:15:14  [Apache] 	Apache WILL NOT start without the configured ports free!
+11:15:14  [Apache] 	You need to uninstall/disable/reconfigure the blocking application
+11:15:14  [Apache] 	or reconfigure Apache and the Control Panel to listen on a different port
+11:15:14  [main] 	Starting Check-Timer
+11:15:14  [main] 	Control Panel Ready
+11:15:17  [Apache] 	Problem detected!
+11:15:17  [Apache] 	Port 80 in use by "C:\Program Files (x86)\Skype\Phone\Skype.exe" with PID 3488!
+11:15:17  [Apache] 	Apache WILL NOT start without the configured ports free!
+11:15:17  [Apache] 	You need to uninstall/disable/reconfigure the blocking application
+11:15:17  [Apache] 	or reconfigure Apache and the Control Panel to listen on a different port
+11:15:17  [Apache] 	Problem detected!
+11:15:17  [Apache] 	Port 443 in use by "C:\Program Files (x86)\Skype\Phone\Skype.exe" with PID 3488!
+11:15:17  [Apache] 	Apache WILL NOT start without the configured ports free!
+11:15:17  [Apache] 	You need to uninstall/disable/reconfigure the blocking application
+11:15:17  [Apache] 	or reconfigure Apache and the Control Panel to listen on a different port
+11:15:17  [Apache] 	Attempting to start Apache app...
+11:15:17  [mysql] 	Attempting to start MySQL app...
+11:15:26  [Apache] 	Status change detected: running
+11:15:32  [mysql] 	Status change detected: running
+14:27:24  [Apache] 	Status change detected: stopped
+14:27:24  [Apache] 	Error: Apache shutdown unexpectedly.
+14:27:24  [Apache] 	This may be due to a blocked port, missing dependencies, 
+14:27:24  [Apache] 	improper privileges, a crash, or a shutdown by another method.
+14:27:24  [Apache] 	Press the Logs button to view error logs and check
+14:27:24  [Apache] 	the Windows Event Viewer for more clues
+14:27:24  [Apache] 	If you need more help, copy and post this
+14:27:24  [Apache] 	entire log window on the forums
+14:27:24  [mysql] 	Status change detected: stopped
+14:27:24  [mysql] 	Error: MySQL shutdown unexpectedly.
+14:27:24  [mysql] 	This may be due to a blocked port, missing dependencies, 
+14:27:24  [mysql] 	improper privileges, a crash, or a shutdown by another method.
+14:27:24  [mysql] 	Press the Logs button to view error logs and check
+14:27:24  [mysql] 	the Windows Event Viewer for more clues
+14:27:24  [mysql] 	If you need more help, copy and post this
+14:27:24  [mysql] 	entire log window on the forums
+14:27:24  [main] 	Deinitializing Modules
+14:27:24  [main] 	Deinitializing Control Panel
+
